@@ -14,6 +14,6 @@ I prefer to work on projects on my laptop and have a need to push changes to a g
 4. Commit changes.  
 ```git commit -m "some comment"```
 5. Push committed changes to the repo.  
-```git push -u <name> mast```
+```git push -u <name> master```
 
 
