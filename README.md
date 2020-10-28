@@ -17,6 +17,10 @@ I prefer to work on projects on my laptop and have a need to push changes to a g
 ```git push -u <name> master```
 
 #### Pulling changes from github.com
-testing more
+If changes were pushed to the remote repo using the -u option then a pull request can be made using the below command that lets you do without specifiying the url  
+```git pull```  
 
+ If the code was pushed without using -u option then the command would be  
+ ```git pull <url>```   
+ 
 
