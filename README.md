@@ -22,5 +22,10 @@ If changes were pushed to the remote repo using the -u option then a pull reques
 
  If the code was pushed without using -u option then the command would be  
  ```git pull <url>```   
- 
+  
+   
+#### Removing a Remote Reference Locally
+If for some reason you need to remove a local remote reference, you can use the following command:  
+```git remote rm <name>```  
+
 
